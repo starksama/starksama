@@ -17,7 +17,3 @@ working on a managed signal marketplace — discovery, routing, monetization for
 ## stack
 
 rust when it matters, typescript when it doesn't. clean code or no code.
-
----
-
-*half taiwanese, half american. 22. based in taipei.*
