@@ -1,19 +1,23 @@
-# hey, i'm stark
+# stark
 
-building tools for AI agents. code by day, lift by night.
+building infra for AI agents.
 
-## current work
+---
 
-**[@monarch-xyz](https://github.com/monarch-xyz)** — DeFi lending dashboard on Morpho Blue. helping lenders optimize yield without the complexity.
+### projects
 
-**[herald](https://github.com/starksama/herald)** — local bridge from ntfy.sh to localhost. lets AI agents receive real-time signals without exposing public endpoints. simple, no server required.
+| | |
+|---|---|
+| **[herald](https://github.com/starksama/herald)** | local ntfy.sh bridge — real-time signals to localhost without public endpoints |
+| **[flare](https://github.com/monarch-xyz/flare)** | on-chain event watcher — whale movements, governance, liquidations |
+| **[monarch](https://github.com/monarch-xyz)** | DeFi lending dashboard on Morpho Blue |
 
-**[flare](https://github.com/monarch-xyz/flare)** — on-chain event watcher for DeFi. monitors whale movements, governance votes, liquidation risks. feeds into herald.
+---
 
-## what's next
+### wip
 
-working on a managed signal marketplace — discovery, routing, monetization for real-time data feeds. separate product, still designing.
+signal marketplace — managed routing and monetization for real-time data feeds. designing now.
 
-## stack
+---
 
-rust when it matters, typescript when it doesn't. clean code or no code.
+rust · typescript · clean code
