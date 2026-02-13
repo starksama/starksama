@@ -12,8 +12,8 @@ local ntfy.sh bridge — real-time signals to localhost without public endpoints
 **[flare](https://github.com/monarch-xyz/flare)**  
 on-chain event watcher — whale movements, governance, liquidations
 
-**[monarch](https://github.com/antoncoding/monarch)**  
-DeFi lending dashboard on Morpho Blue — contributor
+**[monarch](https://github.com/antoncoding/monarch)** · [monarch-xyz](https://github.com/monarch-xyz)  
+DeFi lending dashboard on Morpho Blue — core frontend + tooling
 
 ---
 
