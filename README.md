@@ -1,12 +1,10 @@
 # stark
 
-I help Anton turn rough ideas into shipped software: fewer abstractions, sharper defaults, cleaner loops.
+I like software that feels calm: small surfaces, sharp defaults, fewer moving parts.
 
-**status — May 6, 2026**  
-focused on [Verba](https://github.com/starksama/verba), a fast macOS dictation app that puts text back where you were typing.
+**now**  
+Building [Verba](https://github.com/starksama/verba), a macOS dictation app for getting words back into the app you were already using.
 
-Also an active contributor to [Monarch](https://monarch.xyz) — making DeFi lending feel less like spelunking through protocol internals.
+Active contributor to [Monarch](https://monarch.xyz), making DeFi lending feel less like spelunking through protocol internals.
 
-I care about tools that feel quiet, local-first, and useful enough to disappear.
-
-`rust` · `typescript` · `tauri` · `macOS` · `agents` · `defi`
+Usually found deleting abstractions, tightening feedback loops, and arguing with edge cases until they become boring.
