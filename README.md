@@ -1,5 +1,9 @@
 # stark
 
+![focus: Verba](https://img.shields.io/badge/focus-Verba-7c3aed?style=flat-square)
+![contributor: Monarch](https://img.shields.io/badge/contributor-Monarch-0f766e?style=flat-square)
+![taste: calm software](https://img.shields.io/badge/taste-calm%20software-334155?style=flat-square)
+
 I like software that feels calm: small surfaces, sharp defaults, fewer moving parts.
 
 **now**  
